@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\BasicMovement.cs">
+    <Files>
+      <File FileName="Assets\Scripts\BasicMovement.cs" Line="52" Column="4" />
+      <File FileName="Assets\Scripts\keyScript.cs" Line="21" Column="18" />
+      <File FileName="Assets\Scripts\escapeScript.cs" Line="7" Column="9" />
+      <File FileName="Assets\Scripts\KillerScript.cs" Line="28" Column="25" />
+      <File FileName="Assets\GoogleVR\Scripts\Headset\GvrHeadset.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
